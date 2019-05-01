@@ -106,7 +106,7 @@ section {
 }
 body {
   line-height: 1;
-  background-color: #3e97c0;
+  background-color: #428eb1;
 }
 ol,
 ul {
@@ -134,7 +134,7 @@ table {
 html,
 body {
   height: 100%;
-  font-family: "Arial";
+  font-family: 'Montserrat', sans-serif;
 }
 .display-justify {
   display: flex;
